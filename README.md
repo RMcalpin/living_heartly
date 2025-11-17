@@ -1,4 +1,5 @@
 # living_heartly
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+A mobile dating app with an emphasis on quality over quantity
+>>>>>>> 503fe186723545a7e2de8b4550632aa8b2125229
